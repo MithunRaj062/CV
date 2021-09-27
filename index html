@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>mithun personal site</title>
+</head>
+<body>
+  <center>
+  <table cellspacing="20">
+    <tr>
+      <td>  <img src="https://lh3.googleusercontent.com/-V0nXqlufEAU/YThq-Q5QYNI/AAAAAAAADow/FjjBY-Xv6-QFYwOcFMNNkJ8z9ZdS-CjHACEwYBhgLKtQDABHVOhz8BXtRhPTA3y4PU5zzPg54T_wJoDJG6BfT5-Ovg-ZR16e3LoepuLY0B_9tYiNh2JCZCs5gtXKTTd7EoD6cziijMClATXTg8HTkx-VvhjphsNsquSq4uRjZCv2YkWOpnOaThxKs2G67a0SOcWYbXawr7pgh82FKdnCcXM7F44BZ2nX8TsKpu8StbZaYJ_U4dUx5mMkzSBLCBKiI8SjY2kPvLk2jD6NhXcBdDvWvFpO8XD2sBs1D4KbeARfVfmbFjRaix62xDXM9rwi-kA8rQPLsZFVdHqGFgaIfFwJdcaBf7RpM33tvASo7AWF2IJ0_FQkcNj0f4I8oNjINRIHbjTS2sTNLyA0CeZRwjHTAxQOuhmOV2LpJBM3YDLAv4xIYmYZO_x84LnYOSGLNXyYlX0GD1yIm_9P00pUR81Kjf9fjDurAhN0XwRlkFgdTThvjp6VDpXMaNf4YgMpfiOLnHb0r6xoFqD8nnublbkhrPpF4VWTxiNnOovsmJLXPBH87bFGHl3R8R44dD9ThX0AmfecBEDF5EJ3lPtUjZTBFlRgw689HW43qJSoo5cB0OmMyWaxZ53SxLx_5hXqWu4HPr6ucsewCF_TMwYmlu5-zBmySMPLDwIoG/w140-h140-p/2021-09-08.jpg" alt="google profile picture"></td>
+      <td><h1>Mithun Raj</h1>
+      <p><em>founder and CTO of <strong><a href="https://mail.google.com/mail/u/0/#inbox" >marco e-commerce</a></strong> </em></p>
+      <p>I am web developer and a travel enthusiast and investment advisor</p></td>
+    </tr>
+  </table>
+ <hr size='3' noshade  />
+ <h3>books recommended</h3>
+ <ul>
+   <li>intelingent ivestor</li>
+   <li>market wisards</li>
+   <li>rich dad poor dad</li>
+ </ul>
+ <hr size='3' noshade  />
+ <table border="1">
+   <thead>
+     <th>year</th>
+     <th>quali</th>
+   </thead>
+   <tbody>
+     <tr>
+       <td>2017-18</td>
+       <td>engineering passedout</td>
+     </tr>
+     <tr>
+       <td>2020</td>
+       <td>upsc dropout</td>
+     </tr>
+   </tbody>
+ </table>
+ <hr size='3' noshade  />
+ <h3>my skills</h3>
+ <table border="1" cellspacing="5">
+   <tr>
+     <td>treading</td>
+     <td>⭐⭐⭐⭐</td>
+     <td>web devolpment</td>
+     <td>⭐⭐</td>
+   </tr>
+   <tr>
+     <td>playing chess</td>
+     <td>⭐⭐⭐⭐⭐</td>
+     <td>proficiency in english</td>
+     <td>⭐⭐⭐</td>
+   </tr>
+ </table>
+ <hr size='3' noshade  />
+ <br>
+ <a href="hobbies.html">my hobbies</a>
+ <br>
+ <a href="my_contact.html">my_contact</a>
+ </body>
+</center>
+</html>
